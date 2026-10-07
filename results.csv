@@ -1,0 +1,13 @@
+PuzzleFile,DifficultyTier,CoolingRate,Seed,Solved,BestCost,Iterations,TimeMs
+1374.killer,4,0,9999,1,False,2,743730,11924
+1374.killer,4,0,9999,42,False,4,743730,10875
+1374.killer,4,0,9999,15,False,12,744229,6383
+1374.killer,4,0,99995,1,False,7,1000000,8679
+1374.killer,4,0,99995,42,False,6,1000000,8662
+1374.killer,4,0,99995,15,False,8,1000000,9410
+996.killer,9,0,9999,1,False,4,743730,5669
+996.killer,9,0,9999,42,False,11,743730,5663
+996.killer,9,0,9999,15,False,6,754949,5872
+996.killer,9,0,99995,1,False,11,1000000,7758
+996.killer,9,0,99995,42,False,8,1000000,7705
+996.killer,9,0,99995,15,False,8,1000000,7761

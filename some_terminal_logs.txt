@@ -1,0 +1,1102 @@
+1 2 4 3 5 6 7 8 9 
+5 9 7 1 8 2 4 3 6 
+8 6 3 9 4 7 1 2 5 
+2 5 6 8 7 4 9 1 3 
+7 8 1 5 9 3 6 4 2 
+3 4 9 6 2 1 8 5 7 
+9 3 8 7 1 5 2 6 4 
+4 7 5 2 6 8 3 9 1 
+6 1 2 4 3 9 5 7 8 
+
+Solved: False
+Best cost: 2
+Iterations: 52981
+Time: 909 ms
+1 2 4 3 5 6 7 8 9 
+5 9 7 1 8 2 4 3 6 
+8 6 3 9 4 7 1 2 5 
+2 5 6 8 7 4 9 1 3 
+7 8 1 5 9 3 6 4 2 
+3 4 9 6 2 1 8 5 7 
+9 3 8 7 1 5 2 6 4 
+4 7 5 2 6 8 3 9 1 
+6 1 2 4 3 9 5 7 8 
+
+Solved: True
+Best cost: 0
+Iterations: 10664
+Time: 177 ms
+1 2 3 4 5 6 7 8 9 
+5 9 7 1 8 2 4 3 6 
+8 6 4 9 3 7 1 2 5 
+2 5 6 8 7 4 9 1 3 
+7 8 1 5 9 3 6 4 2 
+3 4 9 6 2 1 8 5 7 
+9 3 8 7 1 5 2 6 4 
+4 7 5 2 6 8 3 9 1 
+6 1 2 3 4 9 5 7 8 
+
+Solved: False
+Best cost: 9
+Iterations: 52981
+Time: 878 ms
+2 1 4 3 5 6 7 8 9 
+5 9 7 1 8 2 4 3 6 
+8 6 3 9 4 7 1 2 5 
+1 2 9 8 7 4 6 4 3 
+7 8 5 6 9 3 9 1 2 
+3 4 6 5 2 1 8 5 7 
+9 3 8 7 1 5 2 6 4 
+4 7 5 2 6 8 3 9 1 
+6 1 2 4 3 9 5 7 8 
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+
+Solved: True
+Best cost: 0
+Iterations: 15057
+Time: 481 ms
+1 2 3 4 5 6 7 8 9 
+5 9 7 1 8 2 4 3 6 
+8 6 4 9 3 7 1 2 5 
+2 5 6 8 7 4 9 1 3 
+7 8 1 5 9 3 6 4 2 
+3 4 9 6 2 1 8 5 7 
+9 3 8 7 1 5 2 6 4 
+4 7 5 2 6 8 3 9 1 
+6 1 2 3 4 9 5 7 8 
+
+Solved: True
+Best cost: 0
+Iterations: 13177
+Time: 219 ms
+1 2 3 4 5 6 7 8 9 
+5 9 7 1 8 2 4 3 6 
+8 6 4 9 3 7 1 2 5 
+2 5 6 8 7 4 9 1 3 
+7 8 1 5 9 3 6 4 2 
+3 4 9 6 2 1 8 5 7 
+9 3 8 7 1 5 2 6 4 
+4 7 5 2 6 8 3 9 1 
+6 1 2 3 4 9 5 7 8 
+
+Solved: False
+Best cost: 2
+Iterations: 264905
+Time: 4421 ms
+1 2 4 3 5 6 7 8 9 
+5 9 7 1 8 2 4 3 6 
+8 6 3 9 4 7 1 2 5 
+2 5 6 8 7 4 9 1 3 
+7 8 1 5 9 3 6 4 2 
+3 4 9 6 2 1 8 5 7 
+9 3 8 7 1 5 2 6 4 
+4 7 5 2 6 8 3 9 1 
+6 1 2 4 3 9 5 7 8 
+
+Solved: True
+Best cost: 0
+Iterations: 126181
+Time: 2123 ms
+1 2 3 4 5 6 7 8 9 
+5 9 7 1 8 2 4 3 6 
+8 6 4 9 3 7 1 2 5 
+2 5 6 8 7 4 9 1 3 
+7 8 1 5 9 3 6 4 2 
+3 4 9 6 2 1 8 5 7 
+9 3 8 7 1 5 2 6 4 
+4 7 5 2 6 8 3 9 1 
+6 1 2 3 4 9 5 7 8 
+
+Solved: True
+Best cost: 0
+Iterations: 10664
+Time: 180 ms
+1 2 3 4 5 6 7 8 9 
+5 9 7 1 8 2 4 3 6 
+8 6 4 9 3 7 1 2 5 
+2 5 6 8 7 4 9 1 3 
+7 8 1 5 9 3 6 4 2 
+3 4 9 6 2 1 8 5 7 
+9 3 8 7 1 5 2 6 4 
+4 7 5 2 6 8 3 9 1 
+6 1 2 3 4 9 5 7 8 
+
+Solved: True
+Best cost: 0
+Iterations: 174310
+Time: 2957 ms
+1 2 3 4 5 6 7 8 9 
+5 9 7 1 8 2 4 3 6 
+8 6 4 9 3 7 1 2 5 
+2 5 6 8 7 4 9 1 3 
+7 8 1 5 9 3 6 4 2 
+3 4 9 6 2 1 8 5 7 
+9 3 8 7 1 5 2 6 4 
+4 7 5 2 6 8 3 9 1 
+6 1 2 3 4 9 5 7 8 
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+
+Solved: True
+Best cost: 0
+Iterations: 15057
+Time: 483 ms
+1 2 3 4 5 6 7 8 9 
+5 9 7 1 8 2 4 3 6 
+8 6 4 9 3 7 1 2 5 
+2 5 6 8 7 4 9 1 3 
+7 8 1 5 9 3 6 4 2 
+3 4 9 6 2 1 8 5 7 
+9 3 8 7 1 5 2 6 4 
+4 7 5 2 6 8 3 9 1 
+6 1 2 3 4 9 5 7 8 
+
+Solved: True
+Best cost: 0
+Iterations: 13177
+Time: 224 ms
+1 2 3 4 5 6 7 8 9 
+5 9 7 1 8 2 4 3 6 
+8 6 4 9 3 7 1 2 5 
+2 5 6 8 7 4 9 1 3 
+7 8 1 5 9 3 6 4 2 
+3 4 9 6 2 1 8 5 7 
+9 3 8 7 1 5 2 6 4 
+4 7 5 2 6 8 3 9 1 
+6 1 2 3 4 9 5 7 8 
+
+Solved: False
+Best cost: 2
+Iterations: 529810
+Time: 8876 ms
+1 2 4 3 5 6 7 8 9 
+5 9 7 1 8 2 4 3 6 
+8 6 3 9 4 7 1 2 5 
+2 5 6 8 7 4 9 1 3 
+7 8 1 5 9 3 6 4 2 
+3 4 9 6 2 1 8 5 7 
+9 3 8 7 1 5 2 6 4 
+4 7 5 2 6 8 3 9 1 
+6 1 2 4 3 9 5 7 8 
+
+Solved: True
+Best cost: 0
+Iterations: 126181
+Time: 2105 ms
+1 2 3 4 5 6 7 8 9 
+5 9 7 1 8 2 4 3 6 
+8 6 4 9 3 7 1 2 5 
+2 5 6 8 7 4 9 1 3 
+7 8 1 5 9 3 6 4 2 
+3 4 9 6 2 1 8 5 7 
+9 3 8 7 1 5 2 6 4 
+4 7 5 2 6 8 3 9 1 
+6 1 2 3 4 9 5 7 8 
+
+Solved: True
+Best cost: 0
+Iterations: 10664
+Time: 179 ms
+1 2 3 4 5 6 7 8 9 
+5 9 7 1 8 2 4 3 6 
+8 6 4 9 3 7 1 2 5 
+2 5 6 8 7 4 9 1 3 
+7 8 1 5 9 3 6 4 2 
+3 4 9 6 2 1 8 5 7 
+9 3 8 7 1 5 2 6 4 
+4 7 5 2 6 8 3 9 1 
+6 1 2 3 4 9 5 7 8 
+
+Solved: True
+Best cost: 0
+Iterations: 174310
+Time: 2931 ms
+1 2 3 4 5 6 7 8 9 
+5 9 7 1 8 2 4 3 6 
+8 6 4 9 3 7 1 2 5 
+2 5 6 8 7 4 9 1 3 
+7 8 1 5 9 3 6 4 2 
+3 4 9 6 2 1 8 5 7 
+9 3 8 7 1 5 2 6 4 
+4 7 5 2 6 8 3 9 1 
+6 1 2 3 4 9 5 7 8 
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+
+Solved: True
+Best cost: 0
+Iterations: 767010
+Time: 13001 ms
+1 2 3 4 5 6 7 8 9 
+5 9 7 1 8 2 4 3 6 
+8 6 4 9 3 7 1 2 5 
+2 5 6 8 7 4 9 1 3 
+7 8 1 5 9 3 6 4 2 
+3 4 9 6 2 1 8 5 7 
+9 3 8 7 1 5 2 6 4 
+4 7 5 2 6 8 3 9 1 
+6 1 2 3 4 9 5 7 8 
+
+Solved: True
+Best cost: 0
+Iterations: 131453
+Time: 2196 ms
+1 2 3 4 5 6 7 8 9 
+5 9 7 1 8 2 4 3 6 
+8 6 4 9 3 7 1 2 5 
+2 5 6 8 7 4 9 1 3 
+7 8 1 5 9 3 6 4 2 
+3 4 9 6 2 1 8 5 7 
+9 3 8 7 1 5 2 6 4 
+4 7 5 2 6 8 3 9 1 
+6 1 2 3 4 9 5 7 8 
+
+Solved: True
+Best cost: 0
+Iterations: 447158
+Time: 7451 ms
+1 2 3 4 5 6 7 8 9 
+5 9 7 1 8 2 4 3 6 
+8 6 4 9 3 7 1 2 5 
+2 5 6 8 7 4 9 1 3 
+7 8 1 5 9 3 6 4 2 
+3 4 9 6 2 1 8 5 7 
+9 3 8 7 1 5 2 6 4 
+4 7 5 2 6 8 3 9 1 
+6 1 2 3 4 9 5 7 8 
+
+Solved: True
+Best cost: 0
+Iterations: 138352
+Time: 2291 ms
+1 2 3 4 5 6 7 8 9 
+5 9 7 1 8 2 4 3 6 
+8 6 4 9 3 7 1 2 5 
+2 5 6 8 7 4 9 1 3 
+7 8 1 5 9 3 6 4 2 
+3 4 9 6 2 1 8 5 7 
+9 3 8 7 1 5 2 6 4 
+4 7 5 2 6 8 3 9 1 
+6 1 2 3 4 9 5 7 8 
+
+Solved: True
+Best cost: 0
+Iterations: 558576
+Time: 9266 ms
+1 2 3 4 5 6 7 8 9 
+5 9 7 1 8 2 4 3 6 
+8 6 4 9 3 7 1 2 5 
+2 5 6 8 7 4 9 1 3 
+7 8 1 5 9 3 6 4 2 
+3 4 9 6 2 1 8 5 7 
+9 3 8 7 1 5 2 6 4 
+4 7 5 2 6 8 3 9 1 
+6 1 2 3 4 9 5 7 8 
+
+Solved: True
+Best cost: 0
+Iterations: 27741
+Time: 458 ms
+1 2 3 4 5 6 7 8 9 
+5 9 7 1 8 2 4 3 6 
+8 6 4 9 3 7 1 2 5 
+2 5 6 8 7 4 9 1 3 
+7 8 1 5 9 3 6 4 2 
+3 4 9 6 2 1 8 5 7 
+9 3 8 7 1 5 2 6 4 
+4 7 5 2 6 8 3 9 1 
+6 1 2 3 4 9 5 7 8 
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+2/1263.killer seed=1 cr=0,9999: solved=True cost=0 iters=15057 time=476ms
+2/1263.killer seed=42 cr=0,9999: solved=True cost=0 iters=13177 time=221ms
+2/1263.killer seed=15 cr=0,9999: solved=False cost=2 iters=264905 time=4952ms
+2/1263.killer seed=82 cr=0,9999: solved=True cost=0 iters=126181 time=2623ms
+2/1263.killer seed=46 cr=0,9999: solved=True cost=0 iters=10664 time=213ms
+2/1263.killer seed=74 cr=0,9999: solved=True cost=0 iters=174310 time=3551ms
+2/1263.killer seed=7 cr=0,9999: solved=False cost=2 iters=264905 time=5338ms
+2/1263.killer seed=23 cr=0,9999: solved=True cost=0 iters=66341 time=1347ms
+2/1263.killer seed=99 cr=0,9999: solved=False cost=4 iters=264905 time=5380ms
+2/1263.killer seed=5 cr=0,9999: solved=False cost=4 iters=264905 time=5368ms
+2/1263.killer seed=1 cr=0,99995: solved=False cost=6 iters=529820 time=10741ms
+2/1263.killer seed=42 cr=0,99995: solved=True cost=0 iters=131453 time=2664ms
+2/1263.killer seed=15 cr=0,99995: solved=True cost=0 iters=447158 time=9018ms
+2/1263.killer seed=82 cr=0,99995: solved=True cost=0 iters=138352 time=2792ms
+2/1263.killer seed=46 cr=0,99995: solved=False cost=2 iters=529820 time=10677ms
+2/1263.killer seed=74 cr=0,99995: solved=True cost=0 iters=27741 time=552ms
+2/1263.killer seed=7 cr=0,99995: solved=True cost=0 iters=128309 time=2578ms
+2/1263.killer seed=23 cr=0,99995: solved=True cost=0 iters=18374 time=358ms
+2/1263.killer seed=99 cr=0,99995: solved=True cost=0 iters=21810 time=431ms
+2/1263.killer seed=5 cr=0,99995: solved=True cost=0 iters=20355 time=397ms
+2/560.killer seed=1 cr=0,9999: solved=True cost=0 iters=234400 time=4735ms
+2/560.killer seed=42 cr=0,9999: solved=False cost=8 iters=264905 time=5244ms
+2/560.killer seed=15 cr=0,9999: solved=True cost=0 iters=116861 time=2302ms
+2/560.killer seed=82 cr=0,9999: solved=False cost=11 iters=264905 time=5255ms
+2/560.killer seed=46 cr=0,9999: solved=False cost=4 iters=264905 time=5295ms
+2/560.killer seed=74 cr=0,9999: solved=False cost=14 iters=264905 time=5241ms
+2/560.killer seed=7 cr=0,9999: solved=False cost=13 iters=264905 time=5267ms
+2/560.killer seed=23 cr=0,9999: solved=False cost=8 iters=264905 time=5362ms
+2/560.killer seed=99 cr=0,9999: solved=False cost=8 iters=264905 time=5281ms
+2/560.killer seed=5 cr=0,9999: solved=False cost=6 iters=264905 time=5254ms
+2/560.killer seed=1 cr=0,99995: solved=False cost=2 iters=529820 time=10369ms
+2/560.killer seed=42 cr=0,99995: solved=True cost=0 iters=347106 time=6897ms
+2/560.killer seed=15 cr=0,99995: solved=False cost=4 iters=529820 time=10546ms
+2/560.killer seed=82 cr=0,99995: solved=False cost=6 iters=529820 time=10582ms
+2/560.killer seed=46 cr=0,99995: solved=False cost=4 iters=529820 time=10574ms
+2/560.killer seed=74 cr=0,99995: solved=False cost=4 iters=529820 time=10566ms
+2/560.killer seed=7 cr=0,99995: solved=True cost=0 iters=126025 time=2499ms
+2/560.killer seed=23 cr=0,99995: solved=False cost=4 iters=529820 time=10545ms
+2/560.killer seed=99 cr=0,99995: solved=False cost=8 iters=529820 time=10554ms
+2/560.killer seed=5 cr=0,99995: solved=False cost=4 iters=529820 time=10543ms
+2/711.killer seed=1 cr=0,9999: solved=True cost=0 iters=17064 time=327ms
+2/711.killer seed=42 cr=0,9999: solved=True cost=0 iters=117697 time=2324ms
+2/711.killer seed=15 cr=0,9999: solved=True cost=0 iters=11732 time=251ms
+2/711.killer seed=82 cr=0,9999: solved=False cost=6 iters=264905 time=5333ms
+2/711.killer seed=46 cr=0,9999: solved=False cost=4 iters=264905 time=5337ms
+2/711.killer seed=74 cr=0,9999: solved=True cost=0 iters=69773 time=1439ms
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> 
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+2/1263.killer seed=1 cr=0,9999: solved=True cost=0 iters=15057 time=485ms
+2/1263.killer seed=42 cr=0,9999: solved=True cost=0 iters=13177 time=226ms
+2/1263.killer seed=15 cr=0,9999: solved=False cost=2 iters=264905 time=4771ms
+2/1263.killer seed=1 cr=0,99995: solved=False cost=6 iters=529820 time=10847ms
+2/1263.killer seed=42 cr=0,99995: solved=True cost=0 iters=131453 time=2641ms
+2/1263.killer seed=15 cr=0,99995: solved=True cost=0 iters=447158 time=9197ms
+2/560.killer seed=1 cr=0,9999: solved=True cost=0 iters=234400 time=4655ms
+2/560.killer seed=42 cr=0,9999: solved=False cost=8 iters=264905 time=5264ms
+2/560.killer seed=15 cr=0,9999: solved=True cost=0 iters=116861 time=2322ms
+2/560.killer seed=1 cr=0,99995: solved=False cost=2 iters=529820 time=10486ms
+2/560.killer seed=42 cr=0,99995: solved=True cost=0 iters=347106 time=6913ms
+2/560.killer seed=15 cr=0,99995: solved=False cost=4 iters=529820 time=10604ms
+2/711.killer seed=1 cr=0,9999: solved=True cost=0 iters=17064 time=352ms
+2/711.killer seed=42 cr=0,9999: solved=True cost=0 iters=117697 time=2364ms
+2/711.killer seed=15 cr=0,9999: solved=True cost=0 iters=11732 time=226ms
+2/711.killer seed=1 cr=0,99995: solved=True cost=0 iters=236775 time=4835ms
+2/711.killer seed=42 cr=0,99995: solved=False cost=2 iters=529820 time=10708ms
+2/711.killer seed=15 cr=0,99995: solved=True cost=0 iters=129120 time=2589ms
+3/1263.killer seed=1 cr=0,9999: solved=True cost=0 iters=18805 time=333ms
+3/1263.killer seed=42 cr=0,9999: solved=True cost=0 iters=175620 time=3199ms
+3/1263.killer seed=15 cr=0,9999: solved=True cost=0 iters=68337 time=1240ms
+3/1263.killer seed=1 cr=0,99995: solved=True cost=0 iters=136393 time=2481ms
+3/1263.killer seed=42 cr=0,99995: solved=True cost=0 iters=242203 time=4390ms
+3/1263.killer seed=15 cr=0,99995: solved=True cost=0 iters=23461 time=438ms
+3/413.killer seed=1 cr=0,9999: solved=False cost=8 iters=264905 time=4776ms
+3/413.killer seed=42 cr=0,9999: solved=False cost=9 iters=264905 time=4754ms
+3/413.killer seed=15 cr=0,9999: solved=False cost=8 iters=264905 time=4789ms
+3/413.killer seed=1 cr=0,99995: solved=False cost=5 iters=529820 time=9498ms
+3/413.killer seed=42 cr=0,99995: solved=False cost=4 iters=529820 time=9562ms
+3/413.killer seed=15 cr=0,99995: solved=True cost=0 iters=243217 time=4368ms
+3/519.killer seed=1 cr=0,9999: solved=True cost=0 iters=70992 time=1284ms
+3/519.killer seed=42 cr=0,9999: solved=False cost=4 iters=264905 time=4811ms
+3/519.killer seed=15 cr=0,9999: solved=False cost=4 iters=264905 time=4755ms
+3/519.killer seed=1 cr=0,99995: solved=False cost=6 iters=529820 time=9723ms
+3/519.killer seed=42 cr=0,99995: solved=False cost=4 iters=529820 time=9584ms
+3/519.killer seed=15 cr=0,99995: solved=True cost=0 iters=456248 time=8356ms
+4/1374.killer seed=1 cr=0,9999: solved=False cost=12 iters=264905 time=4636ms
+4/1374.killer seed=42 cr=0,9999: solved=False cost=14 iters=264905 time=4604ms
+4/1374.killer seed=15 cr=0,9999: solved=False cost=16 iters=264905 time=4631ms
+4/1374.killer seed=1 cr=0,99995: solved=False cost=10 iters=529820 time=9419ms
+4/1374.killer seed=42 cr=0,99995: solved=False cost=11 iters=529820 time=9251ms
+4/1374.killer seed=15 cr=0,99995: solved=False cost=10 iters=529820 time=9152ms
+4/1434.killer seed=1 cr=0,9999: solved=False cost=6 iters=264905 time=4621ms
+4/1434.killer seed=42 cr=0,9999: solved=False cost=10 iters=264905 time=4722ms
+4/1434.killer seed=15 cr=0,9999: solved=True cost=0 iters=124714 time=2178ms
+4/1434.killer seed=1 cr=0,99995: solved=False cost=6 iters=529820 time=9486ms
+4/1434.killer seed=42 cr=0,99995: solved=False cost=4 iters=529820 time=9433ms
+4/1434.killer seed=15 cr=0,99995: solved=False cost=6 iters=529820 time=9310ms
+4/350.killer seed=1 cr=0,9999: solved=False cost=11 iters=264905 time=4750ms
+4/350.killer seed=42 cr=0,9999: solved=False cost=10 iters=264905 time=4786ms
+4/350.killer seed=15 cr=0,9999: solved=False cost=10 iters=264905 time=4801ms
+4/350.killer seed=1 cr=0,99995: solved=False cost=12 iters=529820 time=9617ms
+4/350.killer seed=42 cr=0,99995: solved=False cost=11 iters=529820 time=9594ms
+4/350.killer seed=15 cr=0,99995: solved=False cost=10 iters=529820 time=9606ms
+5/1118.killer seed=1 cr=0,9999: solved=False cost=10 iters=264905 time=4446ms
+5/1118.killer seed=42 cr=0,9999: solved=False cost=12 iters=264905 time=4444ms
+5/1118.killer seed=15 cr=0,9999: solved=False cost=9 iters=264905 time=4485ms
+5/1118.killer seed=1 cr=0,99995: solved=False cost=11 iters=529820 time=8835ms
+5/1118.killer seed=42 cr=0,99995: solved=False cost=8 iters=529820 time=8950ms
+5/1118.killer seed=15 cr=0,99995: solved=False cost=8 iters=529820 time=8764ms
+5/1439.killer seed=1 cr=0,9999: solved=False cost=14 iters=264905 time=4482ms
+5/1439.killer seed=42 cr=0,9999: solved=False cost=13 iters=264905 time=4598ms
+5/1439.killer seed=15 cr=0,9999: solved=False cost=14 iters=264905 time=4573ms
+5/1439.killer seed=1 cr=0,99995: solved=False cost=14 iters=529820 time=9155ms
+5/1439.killer seed=42 cr=0,99995: solved=False cost=13 iters=529820 time=9121ms
+5/1439.killer seed=15 cr=0,99995: solved=False cost=15 iters=529820 time=9189ms
+5/186.killer seed=1 cr=0,9999: solved=False cost=14 iters=264905 time=4536ms
+5/186.killer seed=42 cr=0,9999: solved=False cost=12 iters=264905 time=4533ms
+5/186.killer seed=15 cr=0,9999: solved=False cost=12 iters=264905 time=4571ms
+5/186.killer seed=1 cr=0,99995: solved=False cost=14 iters=529820 time=9058ms
+5/186.killer seed=42 cr=0,99995: solved=False cost=13 iters=529820 time=9059ms
+5/186.killer seed=15 cr=0,99995: solved=False cost=10 iters=529820 time=9119ms
+6/1320.killer seed=1 cr=0,9999: solved=False cost=12 iters=264905 time=4429ms
+6/1320.killer seed=42 cr=0,9999: solved=False cost=8 iters=264905 time=4375ms
+6/1320.killer seed=15 cr=0,9999: solved=False cost=10 iters=264905 time=4376ms
+6/1320.killer seed=1 cr=0,99995: solved=False cost=8 iters=529820 time=8781ms
+6/1320.killer seed=42 cr=0,99995: solved=False cost=10 iters=529820 time=8861ms
+6/1320.killer seed=15 cr=0,99995: solved=False cost=6 iters=529820 time=8817ms
+6/146.killer seed=1 cr=0,9999: solved=False cost=10 iters=264905 time=4396ms
+6/146.killer seed=42 cr=0,9999: solved=False cost=8 iters=264905 time=4472ms
+6/146.killer seed=15 cr=0,9999: solved=True cost=0 iters=202046 time=3399ms
+6/146.killer seed=1 cr=0,99995: solved=False cost=6 iters=529820 time=8904ms
+6/146.killer seed=42 cr=0,99995: solved=True cost=0 iters=247763 time=4118ms
+6/146.killer seed=15 cr=0,99995: solved=False cost=8 iters=529820 time=8916ms
+6/748.killer seed=1 cr=0,9999: solved=False cost=6 iters=264905 time=4191ms
+6/748.killer seed=42 cr=0,9999: solved=False cost=8 iters=264905 time=4195ms
+6/748.killer seed=15 cr=0,9999: solved=False cost=6 iters=264905 time=4199ms
+6/748.killer seed=1 cr=0,99995: solved=False cost=6 iters=529820 time=8530ms
+6/748.killer seed=42 cr=0,99995: solved=False cost=4 iters=529820 time=8425ms
+6/748.killer seed=15 cr=0,99995: solved=False cost=4 iters=529820 time=8458ms
+7/461.killer seed=1 cr=0,9999: solved=False cost=10 iters=264905 time=4180ms
+7/461.killer seed=42 cr=0,9999: solved=False cost=8 iters=264905 time=4155ms
+7/461.killer seed=15 cr=0,9999: solved=False cost=6 iters=264905 time=4204ms
+7/461.killer seed=1 cr=0,99995: solved=False cost=8 iters=529820 time=8452ms
+7/461.killer seed=42 cr=0,99995: solved=False cost=10 iters=529820 time=8544ms
+7/461.killer seed=15 cr=0,99995: solved=False cost=4 iters=529820 time=8444ms
+7/654.killer seed=1 cr=0,9999: solved=False cost=12 iters=264905 time=4129ms
+7/654.killer seed=42 cr=0,9999: solved=False cost=12 iters=264905 time=4202ms
+7/654.killer seed=15 cr=0,9999: solved=False cost=14 iters=264905 time=4222ms
+7/654.killer seed=1 cr=0,99995: solved=False cost=15 iters=529820 time=8449ms
+7/654.killer seed=42 cr=0,99995: solved=False cost=14 iters=529820 time=8279ms
+7/654.killer seed=15 cr=0,99995: solved=False cost=12 iters=529820 time=8404ms
+7/965.killer seed=1 cr=0,9999: solved=False cost=10 iters=264905 time=4490ms
+7/965.killer seed=42 cr=0,9999: solved=False cost=10 iters=264905 time=4457ms
+7/965.killer seed=15 cr=0,9999: solved=False cost=10 iters=264905 time=4438ms
+7/965.killer seed=1 cr=0,99995: solved=False cost=10 iters=529820 time=8755ms
+7/965.killer seed=42 cr=0,99995: solved=False cost=10 iters=529820 time=8790ms
+7/965.killer seed=15 cr=0,99995: solved=False cost=8 iters=529820 time=8974ms
+8/1084.killer seed=1 cr=0,9999: solved=False cost=12 iters=264905 time=4303ms
+8/1084.killer seed=42 cr=0,9999: solved=False cost=13 iters=264905 time=4243ms
+8/1084.killer seed=15 cr=0,9999: solved=False cost=13 iters=264905 time=4230ms
+8/1084.killer seed=1 cr=0,99995: solved=False cost=14 iters=529820 time=8409ms
+8/1084.killer seed=42 cr=0,99995: solved=False cost=12 iters=529820 time=8487ms
+8/1084.killer seed=15 cr=0,99995: solved=False cost=13 iters=529820 time=8424ms
+8/194.killer seed=1 cr=0,9999: solved=False cost=10 iters=264905 time=4298ms
+8/194.killer seed=42 cr=0,9999: solved=False cost=8 iters=264905 time=4350ms
+8/194.killer seed=15 cr=0,9999: solved=False cost=10 iters=264905 time=4317ms
+8/194.killer seed=1 cr=0,99995: solved=True cost=0 iters=472502 time=7621ms
+8/194.killer seed=42 cr=0,99995: solved=False cost=10 iters=529820 time=8664ms
+8/194.killer seed=15 cr=0,99995: solved=True cost=0 iters=461356 time=7435ms
+8/348.killer seed=1 cr=0,9999: solved=False cost=10 iters=264905 time=4281ms
+8/348.killer seed=42 cr=0,9999: solved=False cost=8 iters=264905 time=4228ms
+8/348.killer seed=15 cr=0,9999: solved=False cost=10 iters=264905 time=4261ms
+8/348.killer seed=1 cr=0,99995: solved=False cost=10 iters=529820 time=8486ms
+8/348.killer seed=42 cr=0,99995: solved=False cost=8 iters=529820 time=8582ms
+8/348.killer seed=15 cr=0,99995: solved=False cost=8 iters=529820 time=8492ms
+9/13.killer seed=1 cr=0,9999: solved=False cost=4 iters=264905 time=4169ms
+9/13.killer seed=42 cr=0,9999: solved=False cost=8 iters=264905 time=4107ms
+9/13.killer seed=15 cr=0,9999: solved=False cost=4 iters=264905 time=4172ms
+9/13.killer seed=1 cr=0,99995: solved=False cost=4 iters=529820 time=8407ms
+9/13.killer seed=42 cr=0,99995: solved=False cost=2 iters=529820 time=8235ms
+9/13.killer seed=15 cr=0,99995: solved=True cost=0 iters=140191 time=2201ms
+9/602.killer seed=1 cr=0,9999: solved=True cost=0 iters=27887 time=438ms
+9/602.killer seed=42 cr=0,9999: solved=False cost=2 iters=264905 time=4034ms
+9/602.killer seed=15 cr=0,9999: solved=False cost=2 iters=264905 time=4101ms
+9/602.killer seed=1 cr=0,99995: solved=False cost=2 iters=529820 time=8003ms
+9/602.killer seed=42 cr=0,99995: solved=False cost=2 iters=529820 time=7963ms
+9/602.killer seed=15 cr=0,99995: solved=False cost=2 iters=529820 time=7933ms
+9/996.killer seed=1 cr=0,9999: solved=False cost=13 iters=264905 time=4145ms
+9/996.killer seed=42 cr=0,9999: solved=False cost=12 iters=264905 time=4152ms
+9/996.killer seed=15 cr=0,9999: solved=False cost=12 iters=264905 time=4182ms
+9/996.killer seed=1 cr=0,99995: solved=False cost=11 iters=529820 time=8302ms
+9/996.killer seed=42 cr=0,99995: solved=False cost=10 iters=529820 time=8417ms
+9/996.killer seed=15 cr=0,99995: solved=False cost=5 iters=529820 time=8352ms
+
+Done. 144 runs written to results.csv
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+9/602.killer seed=1 cr=0,9999: solved=True cost=0 iters=27887 time=569ms
+9/602.killer seed=42 cr=0,9999: solved=False cost=2 iters=264905 time=3511ms
+9/602.killer seed=15 cr=0,9999: solved=False cost=2 iters=264905 time=4001ms
+9/602.killer seed=1 cr=0,99995: solved=False cost=2 iters=529820 time=7956ms
+9/602.killer seed=42 cr=0,99995: solved=False cost=2 iters=529820 time=6570ms
+9/602.killer seed=15 cr=0,99995: solved=False cost=2 iters=529820 time=6445ms
+
+Done. 6 runs written to results.csv
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+9/996.killer seed=1 cr=0,9999: solved=False cost=13 iters=264905 time=3604ms
+9/996.killer seed=42 cr=0,9999: solved=False cost=12 iters=264905 time=3353ms
+9/996.killer seed=15 cr=0,9999: solved=False cost=12 iters=264905 time=3354ms
+9/996.killer seed=1 cr=0,99995: solved=False cost=11 iters=529820 time=6719ms
+9/996.killer seed=42 cr=0,99995: solved=False cost=10 iters=529820 time=6687ms
+9/996.killer seed=15 cr=0,99995: solved=False cost=5 iters=529820 time=6721ms
+
+Done. 6 runs written to results.csv
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+9/996.killer seed=1 cr=0,9999: solved=False cost=8 iters=2649050 time=41944ms
+9/996.killer seed=42 cr=0,9999: solved=False cost=5 iters=2649050 time=41486ms
+9/996.killer seed=15 cr=0,9999: solved=False cost=4 iters=2649050 time=41601ms
+9/996.killer seed=1 cr=0,99995: solved=False cost=6 iters=5298200 time=81415ms
+9/996.killer seed=42 cr=0,99995: solved=False cost=4 iters=5298200 time=67392ms
+9/996.killer seed=15 cr=0,99995: solved=False cost=5 iters=5298200 time=67569ms
+
+Done. 6 runs written to results.csv
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+9/602.killer seed=1 cr=0,9999: solved=True cost=0 iters=27887 time=566ms
+9/602.killer seed=42 cr=0,9999: solved=True cost=0 iters=761261 time=11086ms
+9/602.killer seed=15 cr=0,9999: solved=True cost=0 iters=606299 time=9106ms
+9/602.killer seed=1 cr=0,99995: solved=True cost=0 iters=1306585 time=19806ms
+9/602.killer seed=42 cr=0,99995: solved=True cost=0 iters=2472095 time=37324ms
+9/602.killer seed=15 cr=0,99995: solved=True cost=0 iters=1203365 time=18008ms
+
+Done. 6 runs written to results.csv
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+9/602.killer seed=1 cr=0,9999: solved=True cost=0 iters=27887 time=569ms
+9/602.killer seed=42 cr=0,9999: solved=True cost=0 iters=506570 time=6177ms
+9/602.killer seed=15 cr=0,9999: solved=True cost=0 iters=96488 time=1191ms
+9/602.killer seed=1 cr=0,99995: solved=True cost=0 iters=589936 time=7191ms
+9/602.killer seed=42 cr=0,99995: solved=True cost=0 iters=143762 time=1752ms
+9/602.killer seed=15 cr=0,99995: solved=True cost=0 iters=313704 time=3826ms
+
+Done. 6 runs written to results.csv
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+9/996.killer seed=1 cr=0,9999: solved=False cost=10 iters=2065430 time=30138ms
+9/996.killer seed=42 cr=0,9999: solved=False cost=8 iters=2043085 time=28209ms
+9/996.killer seed=15 cr=0,9999: solved=False cost=6 iters=2048671 time=32156ms
+9/996.killer seed=1 cr=0,99995: solved=False cost=6 iters=2935844 time=37039ms
+9/996.killer seed=42 cr=0,99995: solved=False cost=6 iters=2823484 time=38217ms
+9/996.killer seed=15 cr=0,99995: solved=False cost=8 iters=2845669 time=38329ms
+
+Done. 6 runs written to results.csv
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+2/1263.killer seed=1 cr=0,9999: solved=True cost=0 iters=15057 time=485ms
+2/1263.killer seed=42 cr=0,9999: solved=True cost=0 iters=13177 time=219ms
+2/1263.killer seed=15 cr=0,9999: solved=True cost=0 iters=92959 time=1534ms
+2/1263.killer seed=82 cr=0,9999: solved=True cost=0 iters=50772 time=880ms
+2/1263.killer seed=46 cr=0,9999: solved=True cost=0 iters=10664 time=231ms
+2/1263.killer seed=74 cr=0,9999: solved=True cost=0 iters=312906 time=6406ms
+2/1263.killer seed=7 cr=0,9999: solved=True cost=0 iters=521023 time=10367ms
+2/1263.killer seed=23 cr=0,9999: solved=True cost=0 iters=300329 time=6094ms
+2/1263.killer seed=99 cr=0,9999: solved=True cost=0 iters=512748 time=10527ms
+2/1263.killer seed=5 cr=0,9999: solved=True cost=0 iters=49945 time=1013ms
+2/1263.killer seed=1 cr=0,99995: solved=True cost=0 iters=121565 time=2526ms
+2/1263.killer seed=42 cr=0,99995: solved=True cost=0 iters=117588 time=2431ms
+2/1263.killer seed=15 cr=0,99995: solved=True cost=0 iters=127949 time=2583ms
+2/1263.killer seed=82 cr=0,99995: solved=True cost=0 iters=381819 time=7851ms
+2/1263.killer seed=46 cr=0,99995: solved=True cost=0 iters=74728 time=1534ms
+2/1263.killer seed=74 cr=0,99995: solved=True cost=0 iters=27741 time=560ms
+2/1263.killer seed=7 cr=0,99995: solved=True cost=0 iters=113672 time=2324ms
+2/1263.killer seed=23 cr=0,99995: solved=True cost=0 iters=18374 time=375ms
+2/1263.killer seed=99 cr=0,99995: solved=True cost=0 iters=21810 time=451ms
+2/1263.killer seed=5 cr=0,99995: solved=True cost=0 iters=20355 time=428ms
+2/560.killer seed=1 cr=0,9999: solved=False cost=8 iters=749806 time=15434ms
+2/560.killer seed=42 cr=0,9999: solved=False cost=4 iters=774990 time=15709ms
+2/560.killer seed=15 cr=0,9999: solved=True cost=0 iters=767935 time=15533ms
+2/560.killer seed=82 cr=0,9999: solved=True cost=0 iters=400067 time=8047ms
+2/560.killer seed=46 cr=0,9999: solved=True cost=0 iters=193846 time=3959ms
+2/560.killer seed=74 cr=0,9999: solved=False cost=8 iters=754400 time=14227ms
+2/560.killer seed=7 cr=0,9999: solved=False cost=4 iters=766334 time=12401ms
+2/560.killer seed=23 cr=0,9999: solved=True cost=0 iters=173776 time=2848ms
+2/560.killer seed=99 cr=0,9999: solved=True cost=0 iters=50553 time=826ms
+2/560.killer seed=5 cr=0,9999: solved=False cost=2 iters=758761 time=16698ms
+2/560.killer seed=1 cr=0,99995: solved=True cost=0 iters=70783 time=1594ms
+2/560.killer seed=42 cr=0,99995: solved=False cost=6 iters=1025060 time=22493ms
+2/560.killer seed=15 cr=0,99995: solved=True cost=0 iters=450596 time=9986ms
+2/560.killer seed=82 cr=0,99995: solved=True cost=0 iters=374107 time=8272ms
+2/560.killer seed=46 cr=0,99995: solved=True cost=0 iters=713742 time=15710ms
+2/560.killer seed=74 cr=0,99995: solved=False cost=4 iters=1033006 time=22705ms
+2/560.killer seed=7 cr=0,99995: solved=True cost=0 iters=777526 time=17145ms
+2/560.killer seed=23 cr=0,99995: solved=False cost=2 iters=982729 time=22034ms
+2/560.killer seed=99 cr=0,99995: solved=True cost=0 iters=75716 time=1682ms
+2/560.killer seed=5 cr=0,99995: solved=True cost=0 iters=288530 time=6414ms
+2/711.killer seed=1 cr=0,9999: solved=True cost=0 iters=17064 time=387ms
+2/711.killer seed=42 cr=0,9999: solved=True cost=0 iters=85110 time=1892ms
+2/711.killer seed=15 cr=0,9999: solved=True cost=0 iters=11732 time=249ms
+2/711.killer seed=82 cr=0,9999: solved=True cost=0 iters=257504 time=5706ms
+2/711.killer seed=46 cr=0,9999: solved=True cost=0 iters=45048 time=800ms
+2/711.killer seed=74 cr=0,9999: solved=True cost=0 iters=49461 time=662ms
+2/711.killer seed=7 cr=0,9999: solved=True cost=0 iters=156051 time=2033ms
+2/711.killer seed=23 cr=0,9999: solved=True cost=0 iters=80045 time=1047ms
+2/711.killer seed=99 cr=0,9999: solved=True cost=0 iters=44633 time=574ms
+2/711.killer seed=5 cr=0,9999: solved=True cost=0 iters=87121 time=1140ms
+2/711.killer seed=1 cr=0,99995: solved=True cost=0 iters=107781 time=1412ms
+2/711.killer seed=42 cr=0,99995: solved=True cost=0 iters=71613 time=931ms
+2/711.killer seed=15 cr=0,99995: solved=True cost=0 iters=158981 time=2078ms
+2/711.killer seed=82 cr=0,99995: solved=True cost=0 iters=21560 time=295ms
+2/711.killer seed=46 cr=0,99995: solved=True cost=0 iters=69205 time=892ms
+2/711.killer seed=74 cr=0,99995: solved=True cost=0 iters=26271 time=348ms
+2/711.killer seed=7 cr=0,99995: solved=True cost=0 iters=19873 time=265ms
+2/711.killer seed=23 cr=0,99995: solved=True cost=0 iters=20796 time=269ms
+2/711.killer seed=99 cr=0,99995: solved=True cost=0 iters=69585 time=891ms
+2/711.killer seed=5 cr=0,99995: solved=True cost=0 iters=193220 time=2492ms
+3/1263.killer seed=1 cr=0,9999: solved=True cost=0 iters=18805 time=222ms
+3/1263.killer seed=42 cr=0,9999: solved=True cost=0 iters=138917 time=2684ms
+3/1263.killer seed=15 cr=0,9999: solved=True cost=0 iters=101228 time=2086ms
+3/1263.killer seed=82 cr=0,9999: solved=True cost=0 iters=144621 time=2872ms
+3/1263.killer seed=46 cr=0,9999: solved=True cost=0 iters=56347 time=1119ms
+3/1263.killer seed=74 cr=0,9999: solved=True cost=0 iters=51991 time=1018ms
+3/1263.killer seed=7 cr=0,9999: solved=True cost=0 iters=495325 time=5925ms
+3/1263.killer seed=23 cr=0,9999: solved=True cost=0 iters=21512 time=299ms
+3/1263.killer seed=99 cr=0,9999: solved=True cost=0 iters=215737 time=2549ms
+3/1263.killer seed=5 cr=0,9999: solved=True cost=0 iters=18146 time=214ms
+3/1263.killer seed=1 cr=0,99995: solved=True cost=0 iters=130105 time=1515ms
+3/1263.killer seed=42 cr=0,99995: solved=True cost=0 iters=321147 time=3457ms
+3/1263.killer seed=15 cr=0,99995: solved=True cost=0 iters=23461 time=271ms
+3/1263.killer seed=82 cr=0,99995: solved=True cost=0 iters=144220 time=1666ms
+3/1263.killer seed=46 cr=0,99995: solved=True cost=0 iters=34482 time=395ms
+3/1263.killer seed=74 cr=0,99995: solved=True cost=0 iters=87084 time=1010ms
+3/1263.killer seed=7 cr=0,99995: solved=True cost=0 iters=123962 time=1436ms
+3/1263.killer seed=23 cr=0,99995: solved=True cost=0 iters=33516 time=393ms
+3/1263.killer seed=99 cr=0,99995: solved=True cost=0 iters=140565 time=1628ms
+3/1263.killer seed=5 cr=0,99995: solved=True cost=0 iters=23722 time=271ms
+3/413.killer seed=1 cr=0,9999: solved=False cost=4 iters=799531 time=9109ms
+3/413.killer seed=42 cr=0,9999: solved=True cost=0 iters=520743 time=5941ms
+3/413.killer seed=15 cr=0,9999: solved=False cost=5 iters=804771 time=8730ms
+3/413.killer seed=82 cr=0,9999: solved=True cost=0 iters=31740 time=317ms
+3/413.killer seed=46 cr=0,9999: solved=True cost=0 iters=549025 time=5579ms
+3/413.killer seed=74 cr=0,9999: solved=False cost=4 iters=797501 time=8101ms
+3/413.killer seed=7 cr=0,9999: solved=True cost=0 iters=103004 time=1053ms
+3/413.killer seed=23 cr=0,9999: solved=False cost=4 iters=791133 time=8180ms
+3/413.killer seed=99 cr=0,9999: solved=False cost=4 iters=821020 time=8961ms
+3/413.killer seed=5 cr=0,9999: solved=True cost=0 iters=65447 time=746ms
+3/413.killer seed=1 cr=0,99995: solved=True cost=0 iters=145699 time=1683ms
+3/413.killer seed=42 cr=0,99995: solved=False cost=2 iters=1025779 time=11679ms
+3/413.killer seed=15 cr=0,99995: solved=True cost=0 iters=766253 time=8741ms
+3/413.killer seed=82 cr=0,99995: solved=True cost=0 iters=317611 time=3635ms
+3/413.killer seed=46 cr=0,99995: solved=True cost=0 iters=669401 time=7710ms
+3/413.killer seed=74 cr=0,99995: solved=True cost=0 iters=679978 time=7760ms
+3/413.killer seed=7 cr=0,99995: solved=True cost=0 iters=1091397 time=12523ms
+3/413.killer seed=23 cr=0,99995: solved=True cost=0 iters=403762 time=4590ms
+3/413.killer seed=99 cr=0,99995: solved=True cost=0 iters=883354 time=10081ms
+3/413.killer seed=5 cr=0,99995: solved=False cost=2 iters=1077027 time=12274ms
+3/519.killer seed=1 cr=0,9999: solved=False cost=4 iters=771003 time=8326ms
+3/519.killer seed=42 cr=0,9999: solved=False cost=4 iters=802717 time=8194ms
+3/519.killer seed=15 cr=0,9999: solved=False cost=4 iters=806598 time=8284ms
+3/519.killer seed=82 cr=0,9999: solved=True cost=0 iters=561057 time=5844ms
+3/519.killer seed=46 cr=0,9999: solved=True cost=0 iters=554665 time=5705ms
+3/519.killer seed=74 cr=0,9999: solved=True cost=0 iters=446259 time=4575ms
+3/519.killer seed=7 cr=0,9999: solved=True cost=0 iters=569733 time=5815ms
+3/519.killer seed=23 cr=0,9999: solved=True cost=0 iters=107541 time=1114ms
+3/519.killer seed=99 cr=0,9999: solved=True cost=0 iters=364128 time=3740ms
+3/519.killer seed=5 cr=0,9999: solved=True cost=0 iters=595278 time=6089ms
+3/519.killer seed=1 cr=0,99995: solved=True cost=0 iters=427002 time=4814ms
+3/519.killer seed=42 cr=0,99995: solved=True cost=0 iters=75632 time=866ms
+3/519.killer seed=15 cr=0,99995: solved=True cost=0 iters=342255 time=3945ms
+3/519.killer seed=82 cr=0,99995: solved=True cost=0 iters=130074 time=1498ms
+3/519.killer seed=46 cr=0,99995: solved=True cost=0 iters=611862 time=7056ms
+3/519.killer seed=74 cr=0,99995: solved=True cost=0 iters=26377 time=306ms
+3/519.killer seed=7 cr=0,99995: solved=True cost=0 iters=35621 time=420ms
+3/519.killer seed=23 cr=0,99995: solved=True cost=0 iters=355812 time=4089ms
+3/519.killer seed=99 cr=0,99995: solved=True cost=0 iters=236880 time=2726ms
+3/519.killer seed=5 cr=0,99995: solved=True cost=0 iters=322135 time=3718ms
+4/1374.killer seed=1 cr=0,9999: solved=False cost=7 iters=848507 time=9116ms
+4/1374.killer seed=42 cr=0,9999: solved=False cost=10 iters=816237 time=8000ms
+4/1374.killer seed=15 cr=0,9999: solved=False cost=10 iters=839974 time=8221ms
+4/1374.killer seed=82 cr=0,9999: solved=False cost=12 iters=792725 time=7763ms
+4/1374.killer seed=46 cr=0,9999: solved=False cost=10 iters=832299 time=8230ms
+4/1374.killer seed=74 cr=0,9999: solved=False cost=9 iters=833353 time=8176ms
+4/1374.killer seed=7 cr=0,9999: solved=False cost=10 iters=801945 time=7923ms
+4/1374.killer seed=23 cr=0,9999: solved=False cost=12 iters=819500 time=8091ms
+4/1374.killer seed=99 cr=0,9999: solved=False cost=10 iters=823217 time=8632ms
+4/1374.killer seed=5 cr=0,9999: solved=False cost=10 iters=800986 time=8663ms
+4/1374.killer seed=1 cr=0,99995: solved=False cost=8 iters=1167969 time=12772ms
+4/1374.killer seed=42 cr=0,99995: solved=False cost=6 iters=1161948 time=16242ms
+4/1374.killer seed=15 cr=0,99995: solved=False cost=6 iters=1138892 time=16276ms
+4/1374.killer seed=82 cr=0,99995: solved=False cost=2 iters=1111940 time=20262ms
+4/1374.killer seed=46 cr=0,99995: solved=False cost=6 iters=1111657 time=21335ms
+4/1374.killer seed=74 cr=0,99995: solved=False cost=8 iters=1149645 time=22038ms
+4/1374.killer seed=7 cr=0,99995: solved=False cost=8 iters=1138931 time=21744ms
+4/1374.killer seed=23 cr=0,99995: solved=False cost=4 iters=1153691 time=22145ms
+4/1374.killer seed=99 cr=0,99995: solved=False cost=9 iters=1249158 time=23929ms
+4/1374.killer seed=5 cr=0,99995: solved=False cost=8 iters=1139563 time=21680ms
+4/1434.killer seed=1 cr=0,9999: solved=False cost=2 iters=741060 time=14177ms
+4/1434.killer seed=42 cr=0,9999: solved=False cost=2 iters=794867 time=15284ms
+4/1434.killer seed=15 cr=0,9999: solved=False cost=6 iters=807706 time=16070ms
+4/1434.killer seed=82 cr=0,9999: solved=False cost=2 iters=781360 time=9514ms
+4/1434.killer seed=46 cr=0,9999: solved=False cost=2 iters=810791 time=8972ms
+4/1434.killer seed=74 cr=0,9999: solved=False cost=6 iters=811333 time=8867ms
+4/1434.killer seed=7 cr=0,9999: solved=False cost=6 iters=813691 time=9020ms
+4/1434.killer seed=23 cr=0,9999: solved=False cost=2 iters=809752 time=9078ms
+4/1434.killer seed=99 cr=0,9999: solved=True cost=0 iters=221758 time=2483ms
+4/1434.killer seed=5 cr=0,9999: solved=False cost=2 iters=826412 time=8901ms
+4/1434.killer seed=1 cr=0,99995: solved=False cost=4 iters=1059284 time=11642ms
+4/1434.killer seed=42 cr=0,99995: solved=False cost=2 iters=1094063 time=17809ms
+4/1434.killer seed=15 cr=0,99995: solved=True cost=0 iters=901370 time=16904ms
+4/1434.killer seed=82 cr=0,99995: solved=True cost=0 iters=670040 time=12587ms
+4/1434.killer seed=46 cr=0,99995: solved=True cost=0 iters=975625 time=18472ms
+4/1434.killer seed=74 cr=0,99995: solved=True cost=0 iters=637225 time=12039ms
+4/1434.killer seed=7 cr=0,99995: solved=True cost=0 iters=39661 time=736ms
+4/1434.killer seed=23 cr=0,99995: solved=False cost=2 iters=1060993 time=20028ms
+4/1434.killer seed=99 cr=0,99995: solved=False cost=2 iters=1072300 time=20291ms
+4/1434.killer seed=5 cr=0,99995: solved=False cost=2 iters=1038911 time=19675ms
+4/350.killer seed=1 cr=0,9999: solved=False cost=8 iters=810297 time=15941ms
+4/350.killer seed=42 cr=0,9999: solved=False cost=4 iters=795581 time=15396ms
+4/350.killer seed=15 cr=0,9999: solved=False cost=10 iters=787673 time=15202ms
+4/350.killer seed=82 cr=0,9999: solved=False cost=6 iters=788092 time=15345ms
+4/350.killer seed=46 cr=0,9999: solved=False cost=10 iters=790343 time=15505ms
+4/350.killer seed=74 cr=0,9999: solved=False cost=6 iters=810544 time=15810ms
+4/350.killer seed=7 cr=0,9999: solved=False cost=8 iters=850713 time=12818ms
+4/350.killer seed=23 cr=0,9999: solved=False cost=9 iters=864250 time=12722ms
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+2/1263.killer seed=1 cr=0,9999: solved=True cost=0 iters=15057 time=490ms
+2/1263.killer seed=42 cr=0,9999: solved=True cost=0 iters=13177 time=218ms
+2/1263.killer seed=15 cr=0,9999: solved=True cost=0 iters=92959 time=1603ms
+2/1263.killer seed=1 cr=0,99995: solved=True cost=0 iters=121565 time=2397ms
+2/1263.killer seed=42 cr=0,99995: solved=True cost=0 iters=117588 time=2414ms
+2/1263.killer seed=15 cr=0,99995: solved=True cost=0 iters=127949 time=2534ms
+2/560.killer seed=1 cr=0,9999: solved=False cost=8 iters=749806 time=14681ms
+2/560.killer seed=42 cr=0,9999: solved=False cost=4 iters=774990 time=15127ms
+2/560.killer seed=15 cr=0,9999: solved=True cost=0 iters=767935 time=15047ms
+2/560.killer seed=1 cr=0,99995: solved=True cost=0 iters=70783 time=1381ms
+2/560.killer seed=42 cr=0,99995: solved=False cost=6 iters=1025060 time=20061ms
+2/560.killer seed=15 cr=0,99995: solved=True cost=0 iters=450596 time=8838ms
+2/711.killer seed=1 cr=0,9999: solved=True cost=0 iters=17064 time=352ms
+2/711.killer seed=42 cr=0,9999: solved=True cost=0 iters=85110 time=1672ms
+2/711.killer seed=15 cr=0,9999: solved=True cost=0 iters=11732 time=218ms
+2/711.killer seed=1 cr=0,99995: solved=True cost=0 iters=107781 time=2139ms
+2/711.killer seed=42 cr=0,99995: solved=True cost=0 iters=71613 time=1394ms
+2/711.killer seed=15 cr=0,99995: solved=True cost=0 iters=158981 time=3145ms
+3/1263.killer seed=1 cr=0,9999: solved=True cost=0 iters=18805 time=325ms
+3/1263.killer seed=42 cr=0,9999: solved=True cost=0 iters=138917 time=2517ms
+3/1263.killer seed=15 cr=0,9999: solved=True cost=0 iters=101228 time=1816ms
+3/1263.killer seed=1 cr=0,99995: solved=True cost=0 iters=130105 time=2309ms
+3/1263.killer seed=42 cr=0,99995: solved=True cost=0 iters=321147 time=5687ms
+3/1263.killer seed=15 cr=0,99995: solved=True cost=0 iters=23461 time=435ms
+3/413.killer seed=1 cr=0,9999: solved=False cost=4 iters=799531 time=14147ms
+3/413.killer seed=42 cr=0,9999: solved=True cost=0 iters=520743 time=9357ms
+3/413.killer seed=15 cr=0,9999: solved=False cost=5 iters=804771 time=14558ms
+3/413.killer seed=1 cr=0,99995: solved=True cost=0 iters=145699 time=2594ms
+3/413.killer seed=42 cr=0,99995: solved=False cost=2 iters=1025779 time=18243ms
+3/413.killer seed=15 cr=0,99995: solved=True cost=0 iters=766253 time=13550ms
+3/519.killer seed=1 cr=0,9999: solved=False cost=4 iters=771003 time=13817ms
+3/519.killer seed=42 cr=0,9999: solved=False cost=4 iters=802717 time=14383ms
+3/519.killer seed=15 cr=0,9999: solved=False cost=4 iters=806598 time=14339ms
+3/519.killer seed=1 cr=0,99995: solved=True cost=0 iters=427002 time=7616ms
+3/519.killer seed=42 cr=0,99995: solved=True cost=0 iters=75632 time=1365ms
+3/519.killer seed=15 cr=0,99995: solved=True cost=0 iters=342255 time=6111ms
+4/1374.killer seed=1 cr=0,9999: solved=False cost=7 iters=848507 time=14376ms
+4/1374.killer seed=42 cr=0,9999: solved=False cost=10 iters=816237 time=13931ms
+4/1374.killer seed=15 cr=0,9999: solved=False cost=10 iters=839974 time=14470ms
+4/1374.killer seed=1 cr=0,99995: solved=False cost=8 iters=1167969 time=20037ms
+4/1374.killer seed=42 cr=0,99995: solved=False cost=6 iters=1161948 time=19824ms
+4/1374.killer seed=15 cr=0,99995: solved=False cost=6 iters=1138892 time=19441ms
+4/1434.killer seed=1 cr=0,9999: solved=False cost=2 iters=741060 time=12736ms
+4/1434.killer seed=42 cr=0,9999: solved=False cost=2 iters=794867 time=13729ms
+4/1434.killer seed=15 cr=0,9999: solved=False cost=6 iters=807706 time=13977ms
+4/1434.killer seed=1 cr=0,99995: solved=False cost=4 iters=1059284 time=18154ms
+4/1434.killer seed=42 cr=0,99995: solved=False cost=2 iters=1094063 time=18721ms
+4/1434.killer seed=15 cr=0,99995: solved=True cost=0 iters=901370 time=15471ms
+4/350.killer seed=1 cr=0,9999: solved=False cost=8 iters=810297 time=14372ms
+4/350.killer seed=42 cr=0,9999: solved=False cost=4 iters=795581 time=14085ms
+4/350.killer seed=15 cr=0,9999: solved=False cost=10 iters=787673 time=13914ms
+4/350.killer seed=1 cr=0,99995: solved=False cost=8 iters=1150689 time=20242ms
+4/350.killer seed=42 cr=0,99995: solved=False cost=8 iters=1133366 time=20178ms
+4/350.killer seed=15 cr=0,99995: solved=False cost=8 iters=1101063 time=19515ms
+5/1118.killer seed=1 cr=0,9999: solved=False cost=8 iters=800963 time=13107ms
+5/1118.killer seed=42 cr=0,9999: solved=False cost=4 iters=814404 time=13403ms
+5/1118.killer seed=15 cr=0,9999: solved=False cost=10 iters=811925 time=13320ms
+5/1118.killer seed=1 cr=0,99995: solved=False cost=6 iters=1118973 time=18336ms
+5/1118.killer seed=42 cr=0,99995: solved=False cost=8 iters=1100748 time=18091ms
+5/1118.killer seed=15 cr=0,99995: solved=False cost=2 iters=1096026 time=17877ms
+5/1439.killer seed=1 cr=0,9999: solved=False cost=10 iters=801222 time=13459ms
+5/1439.killer seed=42 cr=0,9999: solved=False cost=12 iters=765590 time=12839ms
+5/1439.killer seed=15 cr=0,9999: solved=False cost=6 iters=831849 time=13996ms
+5/1439.killer seed=1 cr=0,99995: solved=False cost=9 iters=1175732 time=19789ms
+5/1439.killer seed=42 cr=0,99995: solved=False cost=10 iters=1050381 time=17740ms
+5/1439.killer seed=15 cr=0,99995: solved=False cost=10 iters=1060489 time=17773ms
+5/186.killer seed=1 cr=0,9999: solved=False cost=8 iters=822115 time=13736ms
+5/186.killer seed=42 cr=0,9999: solved=False cost=10 iters=770321 time=12837ms
+5/186.killer seed=15 cr=0,9999: solved=False cost=4 iters=814983 time=13720ms
+5/186.killer seed=1 cr=0,99995: solved=False cost=4 iters=1073718 time=17985ms
+5/186.killer seed=42 cr=0,99995: solved=False cost=8 iters=1086306 time=18170ms
+5/186.killer seed=15 cr=0,99995: solved=False cost=7 iters=1081161 time=18178ms
+6/1320.killer seed=1 cr=0,9999: solved=False cost=6 iters=795726 time=12864ms
+6/1320.killer seed=42 cr=0,9999: solved=False cost=6 iters=855167 time=13853ms
+6/1320.killer seed=15 cr=0,9999: solved=False cost=12 iters=800452 time=13011ms
+6/1320.killer seed=1 cr=0,99995: solved=False cost=7 iters=1178920 time=19109ms
+6/1320.killer seed=42 cr=0,99995: solved=False cost=11 iters=1170442 time=18988ms
+6/1320.killer seed=15 cr=0,99995: solved=False cost=10 iters=1079498 time=17524ms
+6/146.killer seed=1 cr=0,9999: solved=False cost=6 iters=852631 time=13941ms
+6/146.killer seed=42 cr=0,9999: solved=False cost=5 iters=858052 time=13998ms
+6/146.killer seed=15 cr=0,9999: solved=False cost=7 iters=766132 time=12542ms
+6/146.killer seed=1 cr=0,99995: solved=True cost=0 iters=443387 time=7262ms
+6/146.killer seed=42 cr=0,99995: solved=False cost=2 iters=1130369 time=18563ms
+6/146.killer seed=15 cr=0,99995: solved=False cost=2 iters=1140067 time=18596ms
+6/748.killer seed=1 cr=0,9999: solved=False cost=4 iters=849628 time=13190ms
+6/748.killer seed=42 cr=0,9999: solved=False cost=3 iters=798508 time=12464ms
+6/748.killer seed=15 cr=0,9999: solved=False cost=5 iters=796751 time=12510ms
+6/748.killer seed=1 cr=0,99995: solved=False cost=2 iters=1196153 time=18785ms
+6/748.killer seed=42 cr=0,99995: solved=False cost=2 iters=1155395 time=18112ms
+6/748.killer seed=15 cr=0,99995: solved=False cost=4 iters=1171557 time=18415ms
+7/461.killer seed=1 cr=0,9999: solved=False cost=10 iters=823085 time=12691ms
+7/461.killer seed=42 cr=0,9999: solved=False cost=6 iters=848311 time=13039ms
+7/461.killer seed=15 cr=0,9999: solved=False cost=6 iters=835754 time=12886ms
+7/461.killer seed=1 cr=0,99995: solved=False cost=6 iters=1195674 time=18465ms
+7/461.killer seed=42 cr=0,99995: solved=False cost=7 iters=1168830 time=18078ms
+7/461.killer seed=15 cr=0,99995: solved=False cost=3 iters=1236617 time=19057ms
+7/654.killer seed=1 cr=0,9999: solved=False cost=11 iters=819057 time=12347ms
+7/654.killer seed=42 cr=0,9999: solved=False cost=12 iters=794721 time=12037ms
+7/654.killer seed=15 cr=0,9999: solved=False cost=8 iters=810946 time=12186ms
+7/654.killer seed=1 cr=0,99995: solved=False cost=2 iters=1083468 time=16453ms
+7/654.killer seed=42 cr=0,99995: solved=False cost=8 iters=1099478 time=16578ms
+7/654.killer seed=15 cr=0,99995: solved=False cost=8 iters=1124509 time=16999ms
+7/965.killer seed=1 cr=0,9999: solved=False cost=10 iters=818275 time=13309ms
+7/965.killer seed=42 cr=0,9999: solved=False cost=10 iters=845808 time=13690ms
+7/965.killer seed=15 cr=0,9999: solved=False cost=10 iters=793637 time=12749ms
+7/965.killer seed=1 cr=0,99995: solved=False cost=8 iters=1105913 time=17816ms
+7/965.killer seed=42 cr=0,99995: solved=False cost=8 iters=1114250 time=18057ms
+7/965.killer seed=15 cr=0,99995: solved=False cost=8 iters=1078334 time=17501ms
+8/1084.killer seed=1 cr=0,9999: solved=False cost=10 iters=788950 time=12342ms
+8/1084.killer seed=42 cr=0,9999: solved=False cost=8 iters=815832 time=12694ms
+8/1084.killer seed=15 cr=0,9999: solved=False cost=12 iters=793993 time=12376ms
+8/1084.killer seed=1 cr=0,99995: solved=False cost=8 iters=1065362 time=16622ms
+8/1084.killer seed=42 cr=0,99995: solved=False cost=8 iters=1083894 time=16851ms
+8/1084.killer seed=15 cr=0,99995: solved=False cost=10 iters=1092497 time=15988ms
+8/194.killer seed=1 cr=0,9999: solved=False cost=8 iters=826201 time=12955ms
+8/194.killer seed=42 cr=0,9999: solved=False cost=8 iters=819590 time=12885ms
+8/194.killer seed=15 cr=0,9999: solved=False cost=10 iters=810367 time=12726ms
+8/194.killer seed=1 cr=0,99995: solved=False cost=2 iters=1147512 time=18016ms
+8/194.killer seed=42 cr=0,99995: solved=False cost=4 iters=1104233 time=17355ms
+8/194.killer seed=15 cr=0,99995: solved=False cost=8 iters=1120877 time=17601ms
+8/348.killer seed=1 cr=0,9999: solved=False cost=10 iters=823284 time=12839ms
+8/348.killer seed=42 cr=0,9999: solved=False cost=11 iters=849100 time=13058ms
+8/348.killer seed=15 cr=0,9999: solved=False cost=10 iters=811157 time=12534ms
+8/348.killer seed=1 cr=0,99995: solved=False cost=10 iters=1126163 time=17451ms
+8/348.killer seed=42 cr=0,99995: solved=False cost=7 iters=1105922 time=17132ms
+8/348.killer seed=15 cr=0,99995: solved=False cost=6 iters=1143194 time=17691ms
+9/13.killer seed=1 cr=0,9999: solved=False cost=4 iters=828925 time=12594ms
+9/13.killer seed=42 cr=0,9999: solved=False cost=2 iters=814113 time=12387ms
+9/13.killer seed=15 cr=0,9999: solved=True cost=0 iters=719369 time=10978ms
+9/13.killer seed=1 cr=0,99995: solved=False cost=2 iters=1138839 time=17271ms
+9/13.killer seed=42 cr=0,99995: solved=False cost=2 iters=1180444 time=17855ms
+9/13.killer seed=15 cr=0,99995: solved=False cost=4 iters=1138768 time=15130ms
+9/602.killer seed=1 cr=0,9999: solved=True cost=0 iters=27887 time=336ms
+9/602.killer seed=42 cr=0,9999: solved=True cost=0 iters=506570 time=6928ms
+9/602.killer seed=15 cr=0,9999: solved=True cost=0 iters=96488 time=1202ms
+9/602.killer seed=1 cr=0,99995: solved=True cost=0 iters=589936 time=8817ms
+9/602.killer seed=42 cr=0,99995: solved=True cost=0 iters=143762 time=1832ms
+9/602.killer seed=15 cr=0,99995: solved=True cost=0 iters=313704 time=4011ms
+9/996.killer seed=1 cr=0,9999: solved=False cost=10 iters=839445 time=10562ms
+9/996.killer seed=42 cr=0,9999: solved=False cost=8 iters=815060 time=10312ms
+9/996.killer seed=15 cr=0,9999: solved=False cost=9 iters=783552 time=9978ms
+9/996.killer seed=1 cr=0,99995: solved=False cost=8 iters=1159757 time=14654ms
+9/996.killer seed=42 cr=0,99995: solved=False cost=8 iters=1104637 time=13966ms
+9/996.killer seed=15 cr=0,99995: solved=False cost=8 iters=1139826 time=14319ms
+
+Done. 144 runs written to results-1.csv.
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+9/996.killer seed=1 cr=0,9999: solved=False cost=11 iters=822188 time=12775ms
+9/996.killer seed=42 cr=0,9999: solved=False cost=10 iters=826364 time=12807ms
+9/996.killer seed=15 cr=0,9999: solved=False cost=12 iters=822546 time=12747ms
+9/996.killer seed=1 cr=0,99995: solved=False cost=9 iters=1143580 time=17557ms
+9/996.killer seed=42 cr=0,99995: solved=False cost=8 iters=1168448 time=17963ms
+9/996.killer seed=15 cr=0,99995: solved=False cost=8 iters=1114502 time=15311ms
+
+Done. 6 runs written to results.csv.
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+4/1374.killer seed=1 cr=0,9999: solved=False cost=12 iters=827209 time=14415ms
+4/1374.killer seed=42 cr=0,9999: solved=False cost=10 iters=844474 time=14635ms
+4/1374.killer seed=15 cr=0,9999: solved=False cost=2 iters=809161 time=14023ms
+4/1374.killer seed=1 cr=0,99995: solved=False cost=7 iters=1208642 time=21017ms
+4/1374.killer seed=42 cr=0,99995: solved=False cost=6 iters=1138549 time=19843ms
+4/1374.killer seed=15 cr=0,99995: solved=False cost=12 iters=1182039 time=20637ms
+
+Done. 6 runs written to results.csv.
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+4/1374.killer seed=1 cr=0,9999: solved=False cost=8 iters=843744 time=7010ms
+4/1374.killer seed=42 cr=0,9999: solved=False cost=9 iters=900203 time=7338ms
+4/1374.killer seed=15 cr=0,9999: solved=False cost=10 iters=839139 time=6799ms
+4/1374.killer seed=1 cr=0,99995: solved=False cost=8 iters=1145172 time=9240ms
+4/1374.killer seed=42 cr=0,99995: solved=False cost=8 iters=1186285 time=15651ms
+4/1374.killer seed=15 cr=0,99995: solved=False cost=8 iters=1144599 time=17386ms
+
+Done. 6 runs written to results.csv.
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+9/996.killer seed=1 cr=0,9999: solved=False cost=12 iters=897345 time=11581ms
+9/996.killer seed=42 cr=0,9999: solved=False cost=12 iters=844459 time=10592ms
+9/996.killer seed=15 cr=0,9999: solved=False cost=8 iters=867995 time=10838ms
+9/996.killer seed=1 cr=0,99995: solved=False cost=12 iters=1214970 time=15330ms
+9/996.killer seed=42 cr=0,99995: solved=False cost=11 iters=1171006 time=15646ms
+9/996.killer seed=15 cr=0,99995: solved=False cost=10 iters=1147378 time=16682ms
+
+Done. 6 runs written to results.csv.
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run 
+4/1374.killer seed=1 cr=0,9999: solved=False cost=16 iters=788861 time=11608ms
+4/1374.killer seed=42 cr=0,9999: solved=False cost=6 iters=841353 time=12082ms
+4/1374.killer seed=15 cr=0,9999: solved=False cost=14 iters=822688 time=11799ms
+4/1374.killer seed=1 cr=0,99995: solved=False cost=14 iters=1095798 time=15731ms
+4/1374.killer seed=42 cr=0,99995: solved=False cost=4 iters=1066536 time=15416ms
+4/1374.killer seed=15 cr=0,99995: solved=False cost=12 iters=1071522 time=16160ms
+9/996.killer seed=1 cr=0,9999: solved=False cost=14 iters=812749 time=11809ms
+9/996.killer seed=42 cr=0,9999: solved=False cost=13 iters=817749 time=11633ms
+9/996.killer seed=15 cr=0,9999: solved=False cost=16 iters=829258 time=11797ms
+9/996.killer seed=1 cr=0,99995: solved=False cost=13 iters=1145962 time=16769ms
+9/996.killer seed=42 cr=0,99995: solved=False cost=14 iters=1149198 time=16758ms
+9/996.killer seed=15 cr=0,99995: solved=False cost=18 iters=1102304 time=15917ms
+
+Done. 12 runs written to results.csv.
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+
+Out of 1000 attempted cross-box swaps:
+  No-op (no valid candidate found): 1000
+  Box validity broken: 0
+  Successful valid swaps: 0
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+
+Out of 1000 attempted cross-box swaps:
+  No-op (no valid candidate found): 0
+  Box validity broken: 0
+  Successful valid swaps: 1000
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+4/1374.killer seed=1 cr=0,9999: solved=False cost=8 iters=853941 time=12031ms
+4/1374.killer seed=42 cr=0,9999: solved=False cost=10 iters=873617 time=12104ms
+4/1374.killer seed=15 cr=0,9999: solved=False cost=8 iters=882590 time=12184ms
+4/1374.killer seed=1 cr=0,99995: solved=False cost=11 iters=1158647 time=16519ms
+4/1374.killer seed=42 cr=0,99995: solved=False cost=8 iters=1184196 time=18191ms
+4/1374.killer seed=15 cr=0,99995: solved=False cost=10 iters=1143272 time=17221ms
+9/996.killer seed=1 cr=0,9999: solved=False cost=10 iters=835602 time=11362ms
+9/996.killer seed=42 cr=0,9999: solved=False cost=6 iters=817772 time=11602ms
+9/996.killer seed=15 cr=0,9999: solved=False cost=8 iters=873746 time=12512ms
+9/996.killer seed=1 cr=0,99995: solved=False cost=8 iters=1165385 time=16979ms
+9/996.killer seed=42 cr=0,99995: solved=False cost=9 iters=1156176 time=16445ms
+9/996.killer seed=15 cr=0,99995: solved=False cost=7 iters=1232093 time=17762ms
+
+Done. 12 runs written to results.csv.
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+Final cost: 10
+
+VIOLATED: target=10, actual=9, dupes=False, cells=[(8,8), (7,8)], values=[6,3]
+VIOLATED: target=34, actual=33, dupes=False, cells=[(4,5), (4,4), (4,3), (3,3), (2,3), (2,4), (3,4)], values=[3,6,2,8,1,9,4]
+VIOLATED: target=17, actual=19, dupes=False, cells=[(8,2), (8,3), (8,4)], values=[8,4,7]
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+Final cost: 8
+
+VIOLATED: target=26, actual=25, dupes=False, cells=[(6,6), (7,6), (8,6), (8,7)], values=[8,5,9,3]
+VIOLATED: target=21, actual=20, dupes=False, cells=[(0,3), (0,4), (1,4), (1,5)], values=[2,8,1,9]
+VIOLATED: target=6, actual=7, dupes=False, cells=[(2,8), (3,8)], values=[3,4]
+VIOLATED: target=16, actual=17, dupes=False, cells=[(4,0), (3,0), (3,1)], values=[9,3,5]
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+Final cost: 0
+
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+Final cost: 4
+
+VIOLATED: target=10, actual=9, dupes=False, cells=[(8,8), (7,8)], values=[3,6]
+VIOLATED: target=17, actual=18, dupes=False, cells=[(8,2), (8,3), (8,4)], values=[6,8,4]
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+Final cost: 4
+
+VIOLATED: target=10, actual=9, dupes=False, cells=[(8,8), (7,8)], values=[3,6]
+VIOLATED: target=17, actual=18, dupes=False, cells=[(8,2), (8,3), (8,4)], values=[6,8,4]
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+Seed: 1 Final cost: 4
+
+VIOLATED: target=10, actual=9, dupes=False, cells=[(8,8), (7,8)], values=[3,6]
+VIOLATED: target=17, actual=18, dupes=False, cells=[(8,2), (8,3), (8,4)], values=[6,8,4]
+Seed: 42 Final cost: 13
+
+VIOLATED: target=33, actual=34, dupes=False, cells=[(3,7), (3,8), (2,8), (2,7), (1,7), (0,7)], values=[9,7,4,5,1,8]
+VIOLATED: target=38, actual=38, dupes=True, cells=[(5,4), (5,5), (6,5), (7,5), (7,6), (6,6), (6,7), (6,8)], values=[7,3,1,4,8,6,7,2]
+VIOLATED: target=38, actual=36, dupes=False, cells=[(5,3), (6,3), (6,2), (7,2), (7,3), (7,4), (6,4)], values=[6,3,4,7,9,2,5]
+VIOLATED: target=19, actual=18, dupes=False, cells=[(5,0), (6,0), (6,1)], values=[1,9,8]
+VIOLATED: target=13, actual=14, dupes=False, cells=[(8,1), (7,1), (7,0), (8,0)], values=[1,6,5,2]
+VIOLATED: target=10, actual=9, dupes=False, cells=[(0,8), (1,8)], values=[3,6]
+VIOLATED: target=7, actual=9, dupes=False, cells=[(2,1)], values=[9]
+Seed: 15 Final cost: 10
+
+VIOLATED: target=19, actual=18, dupes=False, cells=[(5,0), (6,0), (6,1)], values=[3,6,9]
+VIOLATED: target=12, actual=13, dupes=False, cells=[(4,8), (4,7), (4,6)], values=[6,3,4]
+VIOLATED: target=10, actual=9, dupes=False, cells=[(5,8), (5,7)], values=[1,8]
+VIOLATED: target=4, actual=5, dupes=False, cells=[(5,6)], values=[5]
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run           
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+Seed: 1 Final cost: 2
+
+VIOLATED: target=19, actual=20, dupes=False, cells=[(8,5), (8,6), (8,7), (7,7)], values=[4,1,9,6]
+VIOLATED: target=17, actual=16, dupes=False, cells=[(8,2), (8,3), (8,4)], values=[6,8,2]
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+Seed: 1 Final cost: 2
+
+VIOLATED: target=19, actual=20, dupes=False, cells=[(8,5), (8,6), (8,7), (7,7)], values=[4,1,9,6]
+VIOLATED: target=17, actual=16, dupes=False, cells=[(8,2), (8,3), (8,4)], values=[6,8,2]
+Seed: 42 Final cost: 8
+
+VIOLATED: target=38, actual=37, dupes=False, cells=[(5,3), (6,3), (6,2), (7,2), (7,3), (7,4), (6,4)], values=[9,1,8,5,7,3,4]
+VIOLATED: target=34, actual=35, dupes=False, cells=[(4,5), (4,4), (4,3), (3,3), (2,3), (2,4), (3,4)], values=[8,7,3,2,4,5,6]
+VIOLATED: target=15, actual=16, dupes=False, cells=[(2,5), (1,5)], values=[9,7]
+VIOLATED: target=17, actual=16, dupes=False, cells=[(8,2), (8,3), (8,4)], values=[3,5,8]
+Seed: 15 Final cost: 6
+
+VIOLATED: target=38, actual=39, dupes=False, cells=[(5,3), (6,3), (6,2), (7,2), (7,3), (7,4), (6,4)], values=[6,7,8,5,9,3,1]
+VIOLATED: target=19, actual=18, dupes=False, cells=[(5,0), (6,0), (6,1)], values=[3,6,9]
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> 
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run > output.txt
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run             
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+4/1374.killer seed=1 cr=0,9999: solved=True cost=0 iters=944457 time=14978ms
+4/1374.killer seed=42 cr=0,9999: solved=False cost=4 iters=1434480 time=22678ms
+4/1374.killer seed=15 cr=0,9999: solved=False cost=5 iters=1434979 time=22867ms
+4/1374.killer seed=1 cr=0,99995: solved=True cost=0 iters=1896654 time=30026ms
+4/1374.killer seed=42 cr=0,99995: solved=False cost=6 iters=2000000 time=31594ms
+4/1374.killer seed=15 cr=0,99995: solved=False cost=8 iters=2000000 time=31515ms
+9/996.killer seed=1 cr=0,9999: solved=False cost=2 iters=1434480 time=20096ms
+9/996.killer seed=42 cr=0,9999: solved=False cost=8 iters=1446512 time=20076ms
+9/996.killer seed=15 cr=0,9999: solved=False cost=6 iters=1445699 time=18831ms
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+4/1374.killer seed=1 cr=0,9999: solved=False cost=2 iters=743730 time=11924ms
+4/1374.killer seed=42 cr=0,9999: solved=False cost=4 iters=743730 time=10875ms
+4/1374.killer seed=15 cr=0,9999: solved=False cost=12 iters=744229 time=6383ms
+4/1374.killer seed=1 cr=0,99995: solved=False cost=7 iters=1000000 time=8679ms
+4/1374.killer seed=42 cr=0,99995: solved=False cost=6 iters=1000000 time=8662ms
+4/1374.killer seed=15 cr=0,99995: solved=False cost=8 iters=1000000 time=9410ms
+9/996.killer seed=1 cr=0,9999: solved=False cost=4 iters=743730 time=5669ms
+9/996.killer seed=42 cr=0,9999: solved=False cost=11 iters=743730 time=5663ms
+9/996.killer seed=15 cr=0,9999: solved=False cost=6 iters=754949 time=5872ms
+9/996.killer seed=1 cr=0,99995: solved=False cost=11 iters=1000000 time=7758ms
+9/996.killer seed=42 cr=0,99995: solved=False cost=8 iters=1000000 time=7705ms
+9/996.killer seed=15 cr=0,99995: solved=False cost=8 iters=1000000 time=7761ms
+
+Done. 12 runs written to results.csv.
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+4/1374.killer seed=1 cr=0,9999: solved=True cost=0 iters=944457 time=14569ms
+4/1374.killer seed=42 cr=0,9999: solved=False cost=4 iters=1000000 time=15157ms
+4/1374.killer seed=15 cr=0,9999: solved=False cost=8 iters=1000000 time=15772ms
+4/1374.killer seed=1 cr=0,99995: solved=False cost=7 iters=1000000 time=14211ms
+4/1374.killer seed=42 cr=0,99995: solved=False cost=6 iters=1000000 time=14047ms
+4/1374.killer seed=15 cr=0,99995: solved=False cost=8 iters=1000000 time=13836ms
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+4/1374.killer seed=1 cr=0,9999: solved=True cost=0 iters=1164953 time=18776ms
+4/1374.killer seed=42 cr=0,9999: solved=False cost=4 iters=1226550 time=19933ms
+4/1374.killer seed=15 cr=0,9999: solved=False cost=4 iters=1250163 time=20246ms
+4/1374.killer seed=1 cr=0,99995: solved=False cost=10 iters=1500000 time=24355ms
+4/1374.killer seed=42 cr=0,99995: solved=False cost=8 iters=1500000 time=24515ms
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+4/1374.killer seed=1 cr=0,9999: solved=False cost=12 iters=1500000 time=13120ms
+4/1374.killer seed=42 cr=0,9999: solved=False cost=6 iters=1500000 time=12758ms
+4/1374.killer seed=15 cr=0,9999: solved=False cost=8 iters=1500000 time=18928ms
+4/1374.killer seed=1 cr=0,99995: solved=False cost=8 iters=1500000 time=21672ms
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+4/1374.killer seed=1 cr=0,9999: solved=True cost=0 iters=944457 time=14851ms
+4/1374.killer seed=42 cr=0,9999: solved=False cost=4 iters=1434480 time=22417ms
+4/1374.killer seed=15 cr=0,9999: solved=False cost=5 iters=1434979 time=23203ms
+4/1374.killer seed=1 cr=0,99995: solved=False cost=6 iters=1500000 time=24278ms
+4/1374.killer seed=42 cr=0,99995: solved=False cost=6 iters=1500000 time=23027ms
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+2/1263.killer seed=1 cr=0,9999: solved=True cost=0 iters=291893 time=5597ms
+2/1263.killer seed=42 cr=0,9999: solved=True cost=0 iters=158229 time=2933ms
+2/1263.killer seed=15 cr=0,9999: solved=True cost=0 iters=60906 time=1133ms
+2/1263.killer seed=1 cr=0,99995: solved=True cost=0 iters=29532 time=565ms
+2/1263.killer seed=42 cr=0,99995: solved=True cost=0 iters=762347 time=14212ms
+2/1263.killer seed=15 cr=0,99995: solved=True cost=0 iters=486209 time=8977ms
+2/560.killer seed=1 cr=0,9999: solved=False cost=4 iters=1456543 time=26828ms
+2/560.killer seed=42 cr=0,9999: solved=False cost=4 iters=1434480 time=26327ms
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> 
+
+PS C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver> dotnet run
+2/1263.killer seed=1 cr=0,9999: solved=True cost=0 iters=426395 time=7941ms
+2/1263.killer seed=42 cr=0,9999: solved=True cost=0 iters=519142 time=9015ms
+2/1263.killer seed=15 cr=0,9999: solved=False cost=2 iters=1204230 time=20972ms
+2/1263.killer seed=82 cr=0,9999: solved=True cost=0 iters=121487 time=2055ms
+2/1263.killer seed=46 cr=0,9999: solved=True cost=0 iters=333072 time=5791ms
+2/1263.killer seed=74 cr=0,9999: solved=True cost=0 iters=335352 time=5792ms
+2/1263.killer seed=7 cr=0,9999: solved=True cost=0 iters=339186 time=5880ms
+2/1263.killer seed=23 cr=0,9999: solved=True cost=0 iters=12215 time=223ms
+2/1263.killer seed=99 cr=0,9999: solved=True cost=0 iters=610320 time=10919ms
+2/1263.killer seed=5 cr=0,9999: solved=True cost=0 iters=656890 time=11519ms
+2/1263.killer seed=1 cr=0,99995: solved=False cost=2 iters=2408513 time=42551ms
+2/1263.killer seed=42 cr=0,99995: solved=True cost=0 iters=113483 time=1995ms
+2/1263.killer seed=15 cr=0,99995: solved=True cost=0 iters=1313157 time=23003ms
+2/1263.killer seed=82 cr=0,99995: solved=True cost=0 iters=200437 time=3506ms
+2/1263.killer seed=46 cr=0,99995: solved=True cost=0 iters=19412 time=342ms
+2/1263.killer seed=74 cr=0,99995: solved=True cost=0 iters=114975 time=2021ms
+2/1263.killer seed=7 cr=0,99995: solved=True cost=0 iters=18210 time=327ms
+2/1263.killer seed=23 cr=0,99995: solved=True cost=0 iters=204712 time=3557ms
+2/1263.killer seed=99 cr=0,99995: solved=True cost=0 iters=207175 time=3620ms
+2/1263.killer seed=5 cr=0,99995: solved=True cost=0 iters=385211 time=6677ms
+
+Done. 20 runs written to results-v1.0-1.csv.

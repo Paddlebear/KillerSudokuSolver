@@ -1,0 +1,40 @@
+using KillerSudokuSolver.IO;
+
+const string sourceRoot = "data";       // wherever you downloaded the full 12k dataset
+const string destRoot = "data/subset";  // the curated subset that ships with your repo
+const int perFolder = 3;                // how many puzzles to take from each cage-size group
+
+Directory.CreateDirectory(destRoot);
+
+var allFiles = Directory.GetFiles(sourceRoot, "*.killer", SearchOption.AllDirectories)
+    .Where(f => Path.GetFileName(f) != "example.killer") // skip the known bad/demo file
+    .ToList();
+
+// group by immediate parent folder name (e.g. "cage2", "cage5", etc.)
+var groups = allFiles.GroupBy(f => Path.GetFileName(Path.GetDirectoryName(f)!));
+
+var rng = new Random(42); // fixed seed = reproducible subset selection
+
+foreach (var group in groups)
+{
+    var candidates = group.ToList();
+
+    // only keep files that actually pass validation
+    var valid = candidates
+        .Select(f => (File: f, Puzzle: PuzzleLoader.Load(f)))
+        .Where(x => x.Puzzle.ValidateCoverage().Count == 0)
+        .Select(x => x.File)
+        .ToList();
+
+    var picked = valid.OrderBy(_ => rng.Next()).Take(perFolder);
+
+    var destFolder = Path.Combine(destRoot, group.Key);
+    Directory.CreateDirectory(destFolder);
+
+    foreach (var file in picked)
+    {
+        var destPath = Path.Combine(destFolder, Path.GetFileName(file));
+        File.Copy(file, destPath, overwrite: true);
+        Console.WriteLine($"Copied {file} -> {destPath}");
+    }
+}
