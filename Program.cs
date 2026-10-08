@@ -3,13 +3,14 @@ using KillerSudokuSolver.IO;
 
 int[] seeds = [1, 42, 15, 82, 46, 74, 7, 23, 99, 5]; // 10 seeds per puzzle per cooling rate
 //int[] seeds = [1, 42, 15];
+//int[] seeds = [1];
 double[] coolingRates = [0.9999, 0.99995];
 
 //ValidatorTests.RunAll();
 
 var results = TestRunner.RunAll("data/subset", seeds, coolingRates);
 
-var resultFile = "results-v4-2.csv";
+var resultFile = "results-v4-1.csv";
 ResultsWriter.WriteCsv(results, resultFile);
 
 Console.WriteLine($"\nDone. {results.Count} runs written to {resultFile}.");

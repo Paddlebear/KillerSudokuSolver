@@ -1,3 +1,5 @@
 data/*
 !data/subset/
 !data/subset/**
+bin/
+obj/

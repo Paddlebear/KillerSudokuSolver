@@ -128,7 +128,14 @@ public static class TestRunner
 
                     stopwatch.Stop();
 
-                    var knownAnswer = AnswerFileLoader.Load("data/2/1263.ans");
+                    var answerPath = Path.ChangeExtension(file, ".ans");
+                    // Console.WriteLine(
+                    //     $"Loading answer: {answerPath} " +
+                    //     $"exists={File.Exists(answerPath)}");
+
+                    var knownAnswer = File.Exists(answerPath)
+                        ? AnswerFileLoader.Load(answerPath)
+                        : null;
 
                     result.ValidationPassed = FullGridValidator.IsValid(
                     result.BestGrid,
