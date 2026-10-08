@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\L2\\Desktop\\combo sudoku\\KillerSudokuSolver\\KillerSudokuSolver.csproj": {}
+    "C:\\Users\\A\\repos\\KillerSudokuSolver\\KillerSudokuSolver.csproj": {}
   },
   "projects": {
-    "C:\\Users\\L2\\Desktop\\combo sudoku\\KillerSudokuSolver\\KillerSudokuSolver.csproj": {
+    "C:\\Users\\A\\repos\\KillerSudokuSolver\\KillerSudokuSolver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\L2\\Desktop\\combo sudoku\\KillerSudokuSolver\\KillerSudokuSolver.csproj",
+        "projectUniqueName": "C:\\Users\\A\\repos\\KillerSudokuSolver\\KillerSudokuSolver.csproj",
         "projectName": "KillerSudokuSolver",
-        "projectPath": "C:\\Users\\L2\\Desktop\\combo sudoku\\KillerSudokuSolver\\KillerSudokuSolver.csproj",
-        "packagesPath": "C:\\Users\\L2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\L2\\Desktop\\combo sudoku\\KillerSudokuSolver\\obj\\",
+        "projectPath": "C:\\Users\\A\\repos\\KillerSudokuSolver\\KillerSudokuSolver.csproj",
+        "packagesPath": "C:\\Users\\A\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\A\\repos\\KillerSudokuSolver\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\L2\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\A\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"

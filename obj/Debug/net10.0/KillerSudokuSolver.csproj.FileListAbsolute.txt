@@ -13,3 +13,18 @@ C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver\obj\Debug\net10.0\KillerSudo
 C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver\obj\Debug\net10.0\KillerSudokuSolver.genruntimeconfig.cache
 C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver\obj\Debug\net10.0\ref\KillerSudokuSolver.dll
 C:\Users\L2\Desktop\combo sudoku\KillerSudokuSolver\obj\Debug\net10.0\KillerSudokuSolver.sourcelink.json
+C:\Users\A\repos\KillerSudokuSolver\bin\Debug\net10.0\KillerSudokuSolver.exe
+C:\Users\A\repos\KillerSudokuSolver\bin\Debug\net10.0\KillerSudokuSolver.deps.json
+C:\Users\A\repos\KillerSudokuSolver\bin\Debug\net10.0\KillerSudokuSolver.runtimeconfig.json
+C:\Users\A\repos\KillerSudokuSolver\bin\Debug\net10.0\KillerSudokuSolver.dll
+C:\Users\A\repos\KillerSudokuSolver\bin\Debug\net10.0\KillerSudokuSolver.pdb
+C:\Users\A\repos\KillerSudokuSolver\obj\Debug\net10.0\KillerSudokuSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\repos\KillerSudokuSolver\obj\Debug\net10.0\KillerSudokuSolver.AssemblyInfoInputs.cache
+C:\Users\A\repos\KillerSudokuSolver\obj\Debug\net10.0\KillerSudokuSolver.AssemblyInfo.cs
+C:\Users\A\repos\KillerSudokuSolver\obj\Debug\net10.0\KillerSudokuSolver.csproj.CoreCompileInputs.cache
+C:\Users\A\repos\KillerSudokuSolver\obj\Debug\net10.0\KillerSudokuSolver.sourcelink.json
+C:\Users\A\repos\KillerSudokuSolver\obj\Debug\net10.0\KillerSudokuSolver.dll
+C:\Users\A\repos\KillerSudokuSolver\obj\Debug\net10.0\refint\KillerSudokuSolver.dll
+C:\Users\A\repos\KillerSudokuSolver\obj\Debug\net10.0\KillerSudokuSolver.pdb
+C:\Users\A\repos\KillerSudokuSolver\obj\Debug\net10.0\KillerSudokuSolver.genruntimeconfig.cache
+C:\Users\A\repos\KillerSudokuSolver\obj\Debug\net10.0\ref\KillerSudokuSolver.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KillerSudokuSolver")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6caa9b5b750b95f6910ff2bf05bc1270eefcc11")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3098136592bd2c2d39113da1aa18809fc66754b")]
 [assembly: System.Reflection.AssemblyProductAttribute("KillerSudokuSolver")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KillerSudokuSolver")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

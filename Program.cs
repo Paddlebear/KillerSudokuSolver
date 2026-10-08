@@ -10,7 +10,7 @@ double[] coolingRates = [0.9999, 0.99995];
 
 var results = TestRunner.RunAll("data/subset", seeds, coolingRates);
 
-var resultFile = "results-v4-1.csv";
+var resultFile = "results-v4-2.csv";
 ResultsWriter.WriteCsv(results, resultFile);
 
 Console.WriteLine($"\nDone. {results.Count} runs written to {resultFile}.");

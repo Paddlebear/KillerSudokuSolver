@@ -27,7 +27,7 @@ public static class SimulatedAnnealing
 
         while (bestCost > 0 && iteration < maxIterations)
         {
-            var neighbor = MoveGenerator.Move(current, puzzle, rng);
+            var neighbor = MoveGenerator2.Move(current, puzzle, rng);
             int neighborCost = CostFunction.Calculate(neighbor, puzzle);
             int delta = neighborCost - currentCost;
 
@@ -65,7 +65,7 @@ public static class SimulatedAnnealing
 
                 for (int kick = 0; kick < 3; kick++)
                 {
-                    current = MoveGenerator.Move(
+                    current = MoveGenerator2.Move(
                         current,
                         puzzle,
                         rng,
