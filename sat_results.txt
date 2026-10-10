@@ -1,0 +1,25 @@
+the solver is:  eval.py
+evaluating  2
+total time for cage size 2 is = 0.5653, among which, the solving time is 0.0074
+they have an avg. no. arith clauses of  1494.0   and a total of  8946.0
+evaluating  3
+total time for cage size 3 is = 0.5724, among which, the solving time is 0.0078
+they have an avg. no. arith clauses of  1541.6666666666667   and a total of  8993.666666666666
+evaluating  4
+total time for cage size 4 is = 0.5742, among which, the solving time is 0.0105
+they have an avg. no. arith clauses of  1699.0   and a total of  9151.0
+evaluating  5
+total time for cage size 5 is = 0.5635, among which, the solving time is 0.0108
+they have an avg. no. arith clauses of  1630.0   and a total of  9082.0
+evaluating  6
+total time for cage size 6 is = 0.5853, among which, the solving time is 0.0095
+they have an avg. no. arith clauses of  1550.6666666666667   and a total of  9002.666666666666
+evaluating  7
+total time for cage size 7 is = 0.5886, among which, the solving time is 0.0098
+they have an avg. no. arith clauses of  1369.6666666666667   and a total of  8821.666666666666
+evaluating  8
+total time for cage size 8 is = 0.5895, among which, the solving time is 0.0099
+they have an avg. no. arith clauses of  1323.0   and a total of  8775.0
+evaluating  9
+total time for cage size 9 is = 0.5754, among which, the solving time is 0.0106
+they have an avg. no. arith clauses of  1212.0   and a total of  8664.0
